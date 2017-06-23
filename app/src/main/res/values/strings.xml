@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">GPSLogger</string>
+    <string name="username">Username</string>
+    <string name="passwordLabel">Password</string>
+    <string name="loginLabel">Login</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="transportTitle">Transport Details</string>
+    <string name="maintenance">Maintenance</string>
+    <string name="sendLocation">Send Location</string>
+    <string name="changeTyres">Change Tyres</string>
+    <string name="vehicles">Vehicles</string>
+    <string name="repairs">Repairs</string>
+</resources>
